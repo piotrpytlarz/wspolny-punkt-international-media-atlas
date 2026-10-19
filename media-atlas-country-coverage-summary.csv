@@ -1,0 +1,86 @@
+country_pl,total_sources,core_layer_count,depth_layer_count,signal_layer_count,archive_layer_count,verified_rss_feeds_count,mean_quality_score_1_5,wspolny_punkt_url
+USA,65,2,10,6,47,55,2.98,https://wspolnypunkt.pl/
+Polska,23,3,4,6,10,18,2.61,https://wspolnypunkt.pl/
+Wielka Brytania,22,1,3,2,16,15,3.0,https://wspolnypunkt.pl/
+Francja,20,2,2,3,13,17,3.0,https://wspolnypunkt.pl/
+Niemcy,17,1,3,4,9,16,3.06,https://wspolnypunkt.pl/
+Hiszpania,13,1,1,1,10,11,3.08,https://wspolnypunkt.pl/
+Włochy,13,1,1,1,10,12,3.08,https://wspolnypunkt.pl/
+Canada,9,0,0,0,9,9,3.22,https://wspolnypunkt.pl/
+Australia,8,0,0,0,8,5,3.12,https://wspolnypunkt.pl/
+Indie,7,0,0,1,6,7,2.43,https://wspolnypunkt.pl/
+Israel,7,0,1,0,6,5,2.86,https://wspolnypunkt.pl/
+Szwecja,7,0,1,0,6,4,3.0,https://wspolnypunkt.pl/
+Dania,6,0,0,0,6,5,3.83,https://wspolnypunkt.pl/
+Holandia,6,0,0,0,6,6,3.33,https://wspolnypunkt.pl/
+Japonia,6,0,0,0,6,4,2.92,https://wspolnypunkt.pl/
+Węgry,6,1,1,1,3,5,3.17,https://wspolnypunkt.pl/
+Brazylia,5,0,0,0,5,5,3.2,https://wspolnypunkt.pl/
+Czechy,5,1,0,0,4,4,3.6,https://wspolnypunkt.pl/
+Grecja,5,0,0,0,5,4,2.6,https://wspolnypunkt.pl/
+Chile,4,0,0,0,4,0,3.5,https://wspolnypunkt.pl/
+Chorwacja,4,0,0,0,4,4,2.75,https://wspolnypunkt.pl/
+Norwegia,4,0,0,1,3,4,2.75,https://wspolnypunkt.pl/
+Turcja,4,1,0,1,2,4,3.0,https://wspolnypunkt.pl/
+USA (globalnie),4,1,0,0,3,3,4.0,https://wspolnypunkt.pl/
+Austria,3,0,0,0,3,3,2.33,https://wspolnypunkt.pl/
+Estonia,3,0,0,0,3,3,2.67,https://wspolnypunkt.pl/
+Irlandia,3,0,0,0,3,3,2.67,https://wspolnypunkt.pl/
+Korea Południowa,3,0,0,0,3,2,3.67,https://wspolnypunkt.pl/
+New Zealand,3,0,0,0,3,2,2.33,https://wspolnypunkt.pl/
+Słowacja,3,1,0,0,2,3,3.33,https://wspolnypunkt.pl/
+Słowenia,3,0,0,0,3,3,1.67,https://wspolnypunkt.pl/
+USA (zasięg NATO-wski),3,0,1,0,2,3,4.33,https://wspolnypunkt.pl/
+Łotwa,3,0,0,0,3,3,2.17,https://wspolnypunkt.pl/
+Argentyna,2,0,1,0,1,2,4.0,https://wspolnypunkt.pl/
+Finlandia,2,0,0,0,2,2,2.0,https://wspolnypunkt.pl/
+Izrael / USA,2,0,0,0,2,1,3.5,https://wspolnypunkt.pl/
+Litwa,2,0,0,0,2,2,3.5,https://wspolnypunkt.pl/
+RPA,2,0,0,0,2,2,3.5,https://wspolnypunkt.pl/
+Rumunia,2,0,0,0,2,2,3.0,https://wspolnypunkt.pl/
+Serbia,2,0,0,0,2,2,2.0,https://wspolnypunkt.pl/
+Szwajcaria,2,0,0,0,2,1,3.5,https://wspolnypunkt.pl/
+Tajwan,2,0,0,0,2,1,2.5,https://wspolnypunkt.pl/
+"Argentyna (edycje w BO, CO, EC, US, HN, IL, MX, DO, UY)",1,0,0,0,1,1,1.0,https://wspolnypunkt.pl/
+"Argentyna (redakcje też w MX, CO, PE, ES, USA)",1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+"Austria (Wiedeń); biura w Brukseli, Genewie, Londynie, Waszyngtonie",1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+"Austria / Liechtenstein (siedziba w Schaan, redakcja częściowo w Red Bull Media House w Wiedniu)",1,0,0,0,1,0,4.0,https://wspolnypunkt.pl/
+Belgia,1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+"Belgia (Bruksela), sieć ogólnoeuropejska",1,0,0,0,1,0,2.0,https://wspolnypunkt.pl/
+Belgia (Bruksela); wydawca Remedia Europe SRL,1,0,1,0,0,1,2.0,https://wspolnypunkt.pl/
+Belgia (Flandria),1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Belgia (poziom UE),1,0,1,0,0,1,4.0,https://wspolnypunkt.pl/
+Bułgaria,1,0,0,0,1,1,4.0,https://wspolnypunkt.pl/
+Francja / Belgia,1,0,0,0,1,1,4.0,https://wspolnypunkt.pl/
+Gwatemala,1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Indonezja,1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Islandia,1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Israel / diaspora (redakcje w USA i Jerozolimie),1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Kanada,1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+Kanada (Quebec),1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+Kolumbia,1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+Meksyk,1,0,0,0,1,1,4.0,https://wspolnypunkt.pl/
+Meksyk / Hiszpania,1,0,0,0,1,1,5.0,https://wspolnypunkt.pl/
+"Niemcy (redakcja w Monachium, zaplecze austriackie i południowotyrolskie)",1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Peru,1,0,0,0,1,0,3.0,https://wspolnypunkt.pl/
+Peru / USA (globalnie),1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+"Polska (Warszawa), biura w Brukseli i Nowym Jorku",1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+Portugalia,1,0,1,0,0,1,4.0,https://wspolnypunkt.pl/
+Republika Południowej Afryki,1,0,1,0,0,1,4.0,https://wspolnypunkt.pl/
+Szwajcaria (od IX.2023 osobne cyfrowe wydanie niemieckie),1,0,0,1,0,0,2.0,https://wspolnypunkt.pl/
+Szwajcaria (osobna redakcja NZZ Deutschland w Berlinie),1,1,0,0,0,1,5.0,https://wspolnypunkt.pl/
+"USA (Institute for Advanced Studies in Culture, University of Virginia)",1,0,0,0,1,1,4.0,https://wspolnypunkt.pl/
+"USA (Institute on Religion and Democracy), tematyka globalna",1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+USA (San Francisco) — tematyka i autorzy globalni,1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+USA (pokrycie globalne),1,0,0,0,1,0,3.0,https://wspolnypunkt.pl/
+"USA (redakcja), tradycja niemiecko-włoska",1,0,0,0,1,1,4.0,https://wspolnypunkt.pl/
+"USA (zasięg globalny katolicki, korespondencja watykańska)",1,0,1,0,0,1,4.0,https://wspolnypunkt.pl/
+USA / Wielka Brytania,1,0,0,0,1,1,4.0,https://wspolnypunkt.pl/
+USA / Węgry,1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+USA / Węgry / Irlandia (autorzy transnarodowi),1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
+Ukraina,1,0,1,0,0,1,3.0,https://wspolnypunkt.pl/
+Urugwaj,1,0,0,0,1,0,5.0,https://wspolnypunkt.pl/
+Wielka Brytania / USA (redakcja rozproszona),1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+"Węgry (finansowanie) / Austria / Belgia — redakcja rozproszona, ponadnarodowa",1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+Włochy / USA / Wielka Brytania (redakcja transnarodowa),1,0,0,0,1,1,2.0,https://wspolnypunkt.pl/
+panarabski (Londyn / Rijad),1,0,0,0,1,1,3.0,https://wspolnypunkt.pl/
